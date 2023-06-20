@@ -1,0 +1,92 @@
+.cadastro-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: #e1e1e1;
+  }
+  
+  .cadastro-container {
+    background-color: #e1e1e1;
+    color: #8d8d8d;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin: auto;
+    max-width: 700px;
+    padding: 28px;
+    text-align: left;
+  }
+  
+  .cadastro-heading {
+    color: #111;
+    font-family: TradeGothicforNike365-BdCn,Helvetica!important;
+    font-size: 35px;
+    line-height: 26px;
+    margin: 0 auto;
+    max-width: 25ch;
+    padding: 32px 0 26px;
+    text-align: center;
+    font-weight: 700;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #000000;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .cadastro-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    color: #e1e1e1;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .cadastro-button:hover {
+    background-color: #d32f2f;
+  }
+  
+  .logoatt {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .cadastro-description{
+  font-family: HelveticaNeue,Helvetica!important;
+    line-height: 22px;
+    font-weight: 400;
+    font-size: 20PX;
+    padding-bottom: 27px;
+    text-align: center;
+    text-transform: none!important;
+}
+
+.cadastro-terms{
+    font-family: HelveticaNeue,Helvetica!important;
+    line-height: 22px;
+    font-weight: 400;
+    padding-bottom: 27px;
+    text-align: center;
+    text-transform: none!important;
+}

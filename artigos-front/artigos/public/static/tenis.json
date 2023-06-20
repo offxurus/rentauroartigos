@@ -1,0 +1,52 @@
+[
+  {
+    "id": "94313735",
+    "name": "Chuteira Nike Zoom Superfly 9 Elite" ,
+    "price": 249.99,
+    "oldPrice": 500.00,
+    "image": "https://imgnike-a.akamaihd.net/1920x1920/022662P1.jpg"
+  },
+  {
+    "id": "94313766",
+    "name": "Chuteira Nike Phantom White",
+    "price": 249.99,
+    "oldPrice": 400.99,
+    "image": "https://imgnike-a.akamaihd.net/1920x1920/0119087T.jpg"
+  },
+  
+  { 
+    "id": "94313767",
+    "name": "Bola Nike Strike",
+    "price": 99.99,
+    "oldPrice": 150.99,
+    "image": "https://imgnike-a.akamaihd.net/1920x1920/01386751.jpg"
+  },
+  {
+    "id": "94313768",
+    "name": "Mochila Nike SB Courthouse Unissex ",
+    "price": 199.99,
+    "oldPrice": 299.99,
+    "image": "https://imgnike-a.akamaihd.net/1920x1920/006178ID.jpg"
+  },
+  {
+    "id": "9507779N",
+    "name": "Tênis Asics Patriot 12 Noosa",
+    "price": 199.99,
+    "oldPrice": 279.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9507779N.jpg"
+  },
+  {
+    "id": "92601102",
+    "name": "Tênis Nike SB Dunk Low",
+    "price": 449.99,
+    "oldPrice": 559.99,
+    "image": "https://imgnike-a.akamaihd.net/768x768/025291A1.jpg"
+  },
+  {
+    "id": "9465450R",
+    "name": "Tênis Nike Renew Run",
+    "price": 279.99,
+    "oldPrice": 399.99,
+    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450R.jpg"
+  }
+]
